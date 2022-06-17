@@ -10,7 +10,7 @@
 
 Hey there,
 
-I'm Mokshit Surana, a Machine Learning Developer based in Mumbai IN, who is passionate about building machine learning user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning CSS and Javascript, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community. I'm also a fan of sci-fi tv shows/movies.
+I'm Mokshit Surana, a Machine Learning Developer based in Mumbai India, who is passionate about building machine learning user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning CSS and Javascript, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community. I'm also a fan of sci-fi tv shows/movies.
 
 <!-- Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com) -->
 
@@ -22,7 +22,7 @@ I'm Mokshit Surana, a Machine Learning Developer based in Mumbai IN, who is pass
 
 | **Frameworks and Libraries** |
 | :--- |
-| ![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB) ![Numpy](https://img.shields.io/badge/numpy-%23593d88.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%23593d88.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![SkLearn](https://img.shields.io/badge/sklearn-6DA55F?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23404d59.svg?style=for-the-badge&logo=tensorflow&logoColor=%2361DAFB) ![NLTK](https://img.shields.io/badge/NLTK-DB7093?style=for-the-badge&logo=NLTK&logoColor=white)
+| ![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB) ![Numpy](https://img.shields.io/badge/numpy-%23593d88.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-blue?style=for-the-badge&logo=seaBorn&logoColor=white) ![SkLearn](https://img.shields.io/badge/sklearn-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23404d59.svg?style=for-the-badge&logo=tensorflow&logoColor=%2361DAFB) ![NLTK](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ## Current Stats
